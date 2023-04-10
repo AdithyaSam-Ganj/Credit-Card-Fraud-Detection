@@ -12,22 +12,30 @@ It contains only numerical input variables which are the result of a PCA transfo
 1. Random Forest Classifers without sampling 
 
 2. Undersampling (Nearmiss) of data after performing 5 fold cross validation. 
-Models - 
+
+
+Models -  
 a. Logistic regressing
 b. Random Forest 
 c. Support Vector Classifier
 d. Decision Tree Classifier
 e. K nearest Neighbours
+
+
 
 Metrics - F1score , ROCAUC curve 
 
 3. Oversampling(SMOTE - Systemic Minority OverSampling Technique) of data after performing 5 fold cross validation.
+
+
 Models - 
 a. Logistic regressing
 b. Random Forest 
 c. Support Vector Classifier
 d. Decision Tree Classifier
 e. K nearest Neighbours
+
+
 
 Metrics - ROC curve, Accuracy, CVScore, Recall Score 
 
