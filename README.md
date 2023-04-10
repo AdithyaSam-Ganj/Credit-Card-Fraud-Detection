@@ -47,3 +47,8 @@ I learnt how to deal with extremly skewed datasets by using both undersampling a
 ## Installation 
 
 This is a Jupyter Notebook. Package requirments are included in requirments.txt. Use the following command for installing requirments - pip3 install -r requirments.txt. 
+
+
+## Results
+
+ The results of all the techniques and exavuation metrics can be seen in the image - results.jgp 
