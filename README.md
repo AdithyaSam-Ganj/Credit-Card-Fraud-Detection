@@ -14,7 +14,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 2. Undersampling (Nearmiss) of data after performing 5 fold cross validation. 
 
 
-Models -  
+Models -
 a. Logistic regressing
 b. Random Forest 
 c. Support Vector Classifier
