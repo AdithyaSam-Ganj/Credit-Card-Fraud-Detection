@@ -15,11 +15,11 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 
 Models -
-a. Logistic regressing
-b. Random Forest 
-c. Support Vector Classifier
-d. Decision Tree Classifier
-e. K nearest Neighbours
+a. Logistic regressing,
+b. Random Forest,
+c. Support Vector Classifier,
+d. Decision Tree Classifier,
+e. K nearest Neighbours.
 
 
 
@@ -29,11 +29,11 @@ Metrics - F1score , ROCAUC curve
 
 
 Models - 
-a. Logistic regressing
-b. Random Forest 
-c. Support Vector Classifier
-d. Decision Tree Classifier
-e. K nearest Neighbours
+a. Logistic regressing,
+b. Random Forest,
+c. Support Vector Classifier,
+d. Decision Tree Classifier,
+e. K nearest Neighbours.
 
 
 
